@@ -6,7 +6,7 @@ virtualenv monenv
 source monenv/bin/activate
 
 pip install mistralai          
-fab IO565AVepIvrN2nlrZ4yt3MQGL6pPEqo
+
 
 sudo dnf install mpg123o
 
@@ -14,6 +14,6 @@ dans l'env:
 pip install gtts
 
 dans le repertoir du prog :
-export MISTRAL_API_KEY=IO565AVepIvrN2nlrZ4yt3MQGL6pPEqo
+export MISTRAL_API_KEY=
 
 
